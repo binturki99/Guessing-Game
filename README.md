@@ -1,2 +1,2 @@
 # Guessing-Game
-tthis is the Guessing Game
+this is the Guessing Game
